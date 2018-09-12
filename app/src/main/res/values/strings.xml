@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teisendus</string>
+    <string name="ent">enter a number</string>
+    <string name="km">convert to KM</string>
+    <string name="ml">convert to ML</string>
+    <string name="clr">clear</string>
+    <string name="ok">convert</string>
+</resources>
